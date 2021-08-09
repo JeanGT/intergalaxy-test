@@ -1,0 +1,6 @@
+[submodule "intergalaxy-test-front-end"]
+	path = intergalaxy-test-front-end
+	url = https://github.com/JeanGT/intergalaxy-test-front-end.git
+[submodule "intergalaxy-test-api"]
+	path = intergalaxy-test-api
+	url = https://github.com/JeanGT/intergalaxy-test-api.git
